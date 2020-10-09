@@ -44,3 +44,7 @@ build/
 build_bug/
 dist/
 py*dist/
+
+.travis.yml
+
+.vscode
